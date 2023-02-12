@@ -5,6 +5,7 @@
 <li>- 🤔 I’m looking for help with getting internship...</li>
 <li>- ⚡ Fun fact: ...</li>
 
+[![](https://visitcount.itsvg.in/api?id=itsmaurya&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mauryaavi550) 
